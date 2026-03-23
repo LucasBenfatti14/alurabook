@@ -52,8 +52,9 @@ A página foi estruturada utilizando HTML semântico e estilizada com CSS modern
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/preview-home.png" width="800" /><br><br>
-  <img src="./assets/preview-categories.png" width="800" />
+  <img src="./img/PreviewIndex.jpg" width="800" /><br><br>
+  <img src="./img/PreviewIndex2.jpg" width="800" /><br><br>
+  <img src="./img/PreviewIndex3.jpg" width="800" />
 </p>
 
 ---
